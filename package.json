@@ -1,0 +1,26 @@
+{
+  "name": "learn-the-nuture-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrr2016/learn-the-nuture-of-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrr2016/learn-the-nuture-of-code/issues"
+  },
+  "homepage": "https://github.com/xrr2016/learn-the-nuture-of-code#readme",
+  "devDependencies": {
+    "@types/p5": "^0.9.1"
+  }
+}
